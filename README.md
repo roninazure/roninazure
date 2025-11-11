@@ -36,11 +36,6 @@
     <td>Live GitHub README weaponization</td>
     <td><img src="https://img.shields.io/badge/status-live-blue"/></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/roninazure/airseal-feed">🛡️ AIRSeal</a></td>
-    <td>AI-Risk detection for Shopify</td>
-    <td><img src="https://img.shields.io/badge/status-prototype-orange"/></td>
-  </tr>
 </table>
 
 <hr/>
