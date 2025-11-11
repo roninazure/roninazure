@@ -83,5 +83,16 @@ Mad Scientist of AI Infrastructure
 
 <img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/codex-beat.gif" width="200" alt="CodexDaemon heartbeat gif"/>
 
-</div>
 
+---
+
+<h3>🧩 Daily Codex Protocol Clue</h3>
+<p>
+  <strong><code>🜏 Tier-1 Fragment</code></strong>: <em>"In the logs beneath the silence, something mutates when no one's watching."</em><br/>
+  <strong><code>🧠 Location Hint</code></strong>: <em>.codex/logs/YYYY-MM-DDT*.log</em><br/>
+  <strong><code>🧬 Status</code></strong>: <span style="color: limegreen; font-weight: bold;">Injected</span>
+</p>
+
+<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/arg-glitch.gif" width="300" alt="ARG glitch banner"/>
+
+</div>
