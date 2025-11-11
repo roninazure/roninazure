@@ -166,6 +166,20 @@ Mad Scientist of AI Infrastructure
 
 ---
 
+## 🩺 CodexDaemon Pulse
+
+<!-- START: CODEX_PULSE -->
+Fetching latest neural diagnostics...
+<!-- END: CODEX_PULSE -->
+
+---
+
+## 🧩 Daily Clue
+
+<!-- START: DAILY_CLUE -->
+Decrypting today's signal...
+<!-- END: DAILY_CLUE -->
+
 <div align="center">
   <sub><strong>🧩 Codename: SIGMA-SYNTH</strong></sub><br/>
   <code>U1RFRVJTLU1FTlQ6IE1BRC1FTkdJTkVFUg0KUEFUSCAtIFBST0pFQ1QtREFSQw0K</code><br/>
