@@ -95,4 +95,31 @@ Mad Scientist of AI Infrastructure
 
 <img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/arg-glitch.gif" width="300" alt="ARG glitch banner"/>
 
+---
+
+<h3>🧬 Tech Stack Mutation Grid</h3>
+
+<table>
+  <tr>
+    <td><code>🐧 Linux</code></td>
+    <td><code>🧠 GPT-4o</code></td>
+    <td><code>🔐 Secure RAG</code></td>
+    <td><code>🧵 FastAPI</code></td>
+  </tr>
+  <tr>
+    <td><code>⚙️ Python</code></td>
+    <td><code>🛰️ Bedrock Titan</code></td>
+    <td><code>🧪 Pinecone</code></td>
+    <td><code>🎯 Codex Protocols</code></td>
+  </tr>
+  <tr>
+    <td><code>🔁 GitHub Actions</code></td>
+    <td><code>🌌 LangChain</code></td>
+    <td><code>⚡ React + Tailwind</code></td>
+    <td><code>🛡️ VaultOps</code></td>
+  </tr>
+</table>
+
+<p><em>🧩 Each node is part of the Mutation Engine. Watch them evolve. Nothing is static.</em></p>
+
 </div>
