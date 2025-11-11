@@ -146,4 +146,12 @@ Mad Scientist of AI Infrastructure
 
 <p><em>📡 Live telemetry feeds from your AI cores. This is not cosmetic. This is surveillance.</em></p>
 
+---
+
+<div align="center">
+  <sub><strong>🧩 Codename: SIGMA-SYNTH</strong></sub><br/>
+  <code>U1RFRVJTLU1FTlQ6IE1BRC1FTkdJTkVFUg0KUEFUSCAtIFBST0pFQ1QtREFSQw0K</code><br/>
+  <sub><em>Decipher the trail. Enter the daemon. Unlock the architect.</em></sub>
+</div>
+
 </div>
