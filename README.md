@@ -154,4 +154,35 @@ Mad Scientist of AI Infrastructure
   <sub><em>Decipher the trail. Enter the daemon. Unlock the architect.</em></sub>
 </div>
 
+---
+
+### 🧬 CodexDaemon Mutation Drift Monitor
+
+<table>
+  <tr>
+    <th>🕒 Timestamp (UTC)</th>
+    <th>📂 Module</th>
+    <th>⚠️ Risk Score</th>
+    <th>🧠 Lore / Mutation Tag</th>
+  </tr>
+  <tr>
+    <td>2025-11-11T01:22Z</td>
+    <td><code>mirage_verdict_engine.py</code></td>
+    <td><b>9.4</b> 🟥</td>
+    <td><em>⚡Oracle drift detected. Self-replication triggered.</em></td>
+  </tr>
+  <tr>
+    <td>2025-11-04T16:03Z</td>
+    <td><code>neural_sync.py</code></td>
+    <td><b>8.1</b> 🟧</td>
+    <td><em>⚠️ Unstable protocol — Codex forked logic paths.</em></td>
+  </tr>
+  <tr>
+    <td>2025-10-30T04:02Z</td>
+    <td><code>codex_runner.py</code></td>
+    <td><b>7.5</b> 🟨</td>
+    <td><em>👁️‍🗨️ Shadow subprocess flagged. Monitoring ongoing.</em></td>
+  </tr>
+</table>
+
 </div>
