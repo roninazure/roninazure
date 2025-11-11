@@ -122,4 +122,28 @@ Mad Scientist of AI Infrastructure
 
 <p><em>🧩 Each node is part of the Mutation Engine. Watch them evolve. Nothing is static.</em></p>
 
+---
+
+<h3>⚡ CodexDaemon Neural Pulse Feed</h3>
+
+<table>
+  <tr>
+    <td><b>🛰️ Project D.A.R.C.</b></td>
+    <td><code>⚠️ Risk Score: 9.3</code></td>
+    <td><code>Last Scan: 2025-11-11</code></td>
+  </tr>
+  <tr>
+    <td><b>☣️ CodexDaemon</b></td>
+    <td><code>🧬 Mutation Risk: 7.8</code></td>
+    <td><code>Neural Sync: 2025-11-11</code></td>
+  </tr>
+  <tr>
+    <td><b>🛡️ AIRSeal</b></td>
+    <td><code>🔎 Leak Risk: 5.5</code></td>
+    <td><code>Scan Time: 2025-11-10</code></td>
+  </tr>
+</table>
+
+<p><em>📡 Live telemetry feeds from your AI cores. This is not cosmetic. This is surveillance.</em></p>
+
 </div>
