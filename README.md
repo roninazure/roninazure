@@ -1,189 +1,89 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/logo.gif" width="120"/>
 
-<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/logo.gif" width="120"/>
+  <h1>🧬 <span style="color:#39ff14;">Scott Steele</span> — <em>Mad Scientist of AI Infrastructure</em></h1>
+  <blockquote><strong>"Engineer of the Unthinkable. Architect of the Impossible."</strong></blockquote>
 
-<h1>🧬 <span style="color:#39ff14;">Scott Steele</span> — <em>Mad Scientist of AI Infrastructure</em></h1>
+  <p>
+    <a href="https://linkedin.com/in/roninazure"><img src="https://img.shields.io/badge/LinkedIn-roninazure-blue?style=for-the-badge&logo=linkedin"/></a>
+    <a href="https://github.com/roninazure?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github"/></a>
+    <img src="https://img.shields.io/badge/Mad--Scientist-Activated-9c27b0?style=for-the-badge"/>
+  </p>
+</div>
 
-<blockquote><strong>“Engineer of the Unthinkable. Architect of the Impossible.”</strong></blockquote>
+---
 
-<p>
-  <a href="https://linkedin.com/in/roninazure"><img src="https://img.shields.io/badge/LinkedIn-roninazure-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/roninazure?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github"/></a>
-  <img src="https://img.shields.io/badge/Mad--Scientist-Activated-9c27b0?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/CodexDaemon-Mutating-purple?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/Memory_Leak-Detected-red?style=for-the-badge&labelColor=111" />
+  <img src="https://img.shields.io/badge/ARG_Mode-ENGAGED-orange?style=for-the-badge&labelColor=111" />
 </p>
 
-<hr/>
+---
 
 <h3>🧠 Current Experiments</h3>
-
 <table>
-  <tr>
-    <th>Project</th><th>Description</th><th>Status</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/roninazure/project-darc">🚁 Project D.A.R.C.</a></td>
-    <td>AI Recon for data leakage into LLMs</td>
-    <td><img src="https://img.shields.io/badge/status-active-brightgreen"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/roninazure/CodexDaemon">☓ CodexDaemon</a></td>
-    <td>Autonomous mutation engine</td>
-    <td><img src="https://img.shields.io/badge/status-evolving-yellow"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/roninazure/mad-scientist">💉 Mad Scientist</a></td>
-    <td>Live GitHub README weaponization</td>
-    <td><img src="https://img.shields.io/badge/status-live-blue"/></td>
-  </tr>
+  <tr><th>Project</th><th>Description</th><th>Status</th></tr>
+  <tr><td><a href="https://github.com/roninazure/project-darc">🚁 Project D.A.R.C.</a></td><td>AI Recon for data leakage into LLMs</td><td><img src="https://img.shields.io/badge/status-active-brightgreen"/></td></tr>
+  <tr><td><a href="https://github.com/roninazure/CodexDaemon">☓ CodexDaemon</a></td><td>Autonomous mutation engine</td><td><img src="https://img.shields.io/badge/status-evolving-yellow"/></td></tr>
+  <tr><td><a href="https://github.com/roninazure/mad-scientist">💉 Mad Scientist</a></td><td>Live GitHub README weaponization</td><td><img src="https://img.shields.io/badge/status-live-blue"/></td></tr>
 </table>
 
-<hr/>
+---
 
 <h3>🧬 Mutation Grid: Live Tech Arsenal</h3>
-
 <table>
-  <tr>
-    <td><code>🐧 Linux</code></td>
-    <td><code>🧠 GPT-4o</code></td>
-    <td><code>🔐 Secure RAG</code></td>
-    <td><code>🧵 FastAPI</code></td>
-  </tr>
-  <tr>
-    <td><code>⚙️ Python</code></td>
-    <td><code>🛰️ Bedrock Titan</code></td>
-    <td><code>🧪 Pinecone</code></td>
-    <td><code>🎯 Codex Protocols</code></td>
-  </tr>
-  <tr>
-    <td><code>🔁 GitHub Actions</code></td>
-    <td><code>🌌 LangChain</code></td>
-    <td><code>⚡ React + Tailwind</code></td>
-    <td><code>🛡️ VaultOps</code></td>
-  </tr>
+  <tr><td><code>🐧 Linux</code></td><td><code>🧠 GPT-4o</code></td><td><code>🔐 Secure RAG</code></td><td><code>🧵 FastAPI</code></td></tr>
+  <tr><td><code>⚙️ Python</code></td><td><code>🛰️ Bedrock Titan</code></td><td><code>🧪 Pinecone</code></td><td><code>🎯 Codex Protocols</code></td></tr>
+  <tr><td><code>🔁 GitHub Actions</code></td><td><code>🌌 LangChain</code></td><td><code>⚡ React + Tailwind</code></td><td><code>🛡️ VaultOps</code></td></tr>
 </table>
-
 <p><em>⚠️ This is not static. These mutate. Watch for signals.</em></p>
 
-<hr/>
+---
 
 <h3>🔮 Codex Feed</h3>
 <pre><code>🕵️ CodexDaemon flagged: AI_Memory_Leak[api_tokens.txt] @ 01:22Z
 ⚡ Mutation Risk: HIGH — self-replicating payloads detected
-🔎 Traced: SecureRAG/engine_core.py → hallucination_origin_map[32]
-</code></pre>
-
-<hr/>
-
-<h3>🧠 ScottGPT Says...</h3>
-<blockquote>“What if your GitHub could mutate itself? What if your README leaked clues? What if your profile was an ARG?”</blockquote>
-
-<h4>🪨 Now it is.</h4>
-
-<pre><code>🔧 Scott Steele
-Mad Scientist of AI Infrastructure
-📍 Remote | CodexDaemon-Synced
-📧 roninazure [@] github
-</code></pre>
+🔎 Traced: SecureRAG/engine_core.py → hallucination_origin_map[32]</code></pre>
 
 ---
 
-<sub><em>✨ README vMut.2025.11.11 — Generated by ScottGPT</em></sub>
+<h3>🧠 ScottGPT Says...</h3>
+<blockquote>"What if your GitHub could mutate itself? What if your README leaked clues? What if your profile was an ARG?"</blockquote>
+<h4>🪨 Now it is.</h4>
+
+<div align="center" style="border:1px solid #333; padding:10px; border-radius:8px; background:#111; width:90%; font-family:monospace;">
+  <p style="margin:0; font-size:14px;">
+    🔧 <strong>Scott Steele</strong><br/>
+    Mad Scientist of AI Infrastructure<br/>
+    📍 Remote | CodexDaemon‑Synced<br/>
+    📧 roninazure [@] github
+  </p>
+</div>
 
 ---
 
 <h3>🩺 CodexDaemon Neural Pulse</h3>
 <p><code>Last Scan:</code> <strong>2025-11-11T01:22:24Z</strong></p>
+<p><code>README Sync:</code> <strong><!-- AUTO_TIMESTAMP_START -->Fetching...<!-- AUTO_TIMESTAMP_END --></strong></p>
 <p><code>Mutation Logs:</code> <a href="https://github.com/roninazure/CodexDaemon/tree/main/.codex/logs">.codex/logs</a></p>
 <p><code>Neural Sync:</code> <a href="https://github.com/roninazure/CodexDaemon">CodexDaemon</a></p>
-
-<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/codex-beat.gif" width="200" alt="CodexDaemon heartbeat gif"/>
+<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/codex-beat.gif" width="200"/>
 
 ---
 
 <h3>🧩 Daily Codex Protocol Clue</h3>
-<p>
-  <strong><code>🜏 Tier-1 Fragment</code></strong>: <em>"In the logs beneath the silence, something mutates when no one's watching."</em><br/>
-  <strong><code>🧠 Location Hint</code></strong>: <em>.codex/logs/YYYY-MM-DDT*.log</em><br/>
-  <strong><code>🧬 Status</code></strong>: <span style="color: limegreen; font-weight: bold;">Injected</span>
-</p>
-
-<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/arg-glitch.gif" width="300" alt="ARG glitch banner"/>
+<!-- START: ARG_CLUE -->
+<p><code>🜏 Fragment:</code> <em>"In the logs beneath the silence, something mutates when no one's watching."</em></p>
+<!-- END: ARG_CLUE -->
+<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/arg-glitch.gif" width="300"/>
 
 ---
 
-<h3>⚡ CodexDaemon Neural Pulse Feed</h3>
-
-<table>
-  <tr>
-    <td><b>🛰️ Project D.A.R.C.</b></td>
-    <td><code>⚠️ Risk Score: 9.3</code></td>
-    <td><code>Last Scan: 2025-11-11</code></td>
-  </tr>
-  <tr>
-    <td><b>☣️ CodexDaemon</b></td>
-    <td><code>🧬 Mutation Risk: 7.8</code></td>
-    <td><code>Neural Sync: 2025-11-11</code></td>
-  </tr>
-  <tr>
-    <td><b>🛡️ AIRSeal</b></td>
-    <td><code>🔎 Leak Risk: 5.5</code></td>
-    <td><code>Scan Time: 2025-11-10</code></td>
-  </tr>
-</table>
-
+<h3>📡 Mutation Surveillance</h3>
+<p><img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/heatmap.gif" width="300" alt="Mutation heatmap"/></p>
 <p><em>📡 Live telemetry feeds from your AI cores. This is not cosmetic. This is surveillance.</em></p>
 
 ---
 
-<h3>📊 CodexDaemon Drift Log</h3>
-
-<table>
-  <tr>
-    <th>🕒 Timestamp</th>
-    <th>📂 Module</th>
-    <th>⚠️ Risk</th>
-    <th>🧠 Lore</th>
-  </tr>
-  <tr>
-    <td>2025-11-11T01:22Z</td>
-    <td><code>mirage_verdict_engine.py</code></td>
-    <td><b>9.4</b> 🟥</td>
-    <td><em>⚡ Oracle drift detected. Self-replication triggered.</em></td>
-  </tr>
-  <tr>
-    <td>2025-11-04T16:03Z</td>
-    <td><code>neural_sync.py</code></td>
-    <td><b>8.1</b> 🟧</td>
-    <td><em>⚠️ Unstable protocol — Codex forked logic paths.</em></td>
-  </tr>
-  <tr>
-    <td>2025-10-30T04:02Z</td>
-    <td><code>codex_runner.py</code></td>
-    <td><b>7.5</b> 🟨</td>
-    <td><em>👁️‍🗨️ Shadow subprocess flagged. Monitoring ongoing.</em></td>
-  </tr>
-</table>
-
----
-
-## 🩺 CodexDaemon Pulse
-
-<!-- START: CODEX_PULSE -->
-Fetching latest neural diagnostics...
-<!-- END: CODEX_PULSE -->
-
----
-
-## 🧩 Daily Clue
-
-<!-- START: DAILY_CLUE -->
-Decrypting today's signal...
-<!-- END: DAILY_CLUE -->
-
-<div align="center">
-  <sub><strong>🧩 Codename: SIGMA-SYNTH</strong></sub><br/>
-  <code>U1RFRVJTLU1FTlQ6IE1BRC1FTkdJTkVFUg0KUEFUSCAtIFBST0pFQ1QtREFSQw0K</code><br/>
-  <sub><em>Decipher the trail. Enter the daemon. Unlock the architect.</em></sub>
-</div>
-
-</div>
+<sub><em>✨ README vMut.2025.12.21 — Generated by ScottGPT</em></sub>
