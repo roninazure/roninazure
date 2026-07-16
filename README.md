@@ -1,89 +1,176 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/logo.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/logo.gif" width="100" alt="Scott Steele logo"/>
 
-  <h1>🧬 <span style="color:#39ff14;">Scott Steele</span> — <em>Mad Scientist of AI Infrastructure</em></h1>
-  <blockquote><strong>"Engineer of the Unthinkable. Architect of the Impossible."</strong></blockquote>
+  <h1>Scott Steele</h1>
+
+  <h3>Linux Infrastructure Engineer · AI Systems Builder · Founder, Swarm Axis</h3>
 
   <p>
-    <a href="https://linkedin.com/in/roninazure"><img src="https://img.shields.io/badge/LinkedIn-roninazure-blue?style=for-the-badge&logo=linkedin"/></a>
-    <a href="https://github.com/roninazure?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github"/></a>
-    <img src="https://img.shields.io/badge/Mad--Scientist-Activated-9c27b0?style=for-the-badge"/>
+    Building governed intelligence systems for consequential environments.
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/roninazure">
+      <img src="https://img.shields.io/badge/LinkedIn-Scott_Steele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/roninazure?tab=repositories">
+      <img src="https://img.shields.io/badge/GitHub-Engineering_Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Linux-Infrastructure-D97706?style=flat-square&logo=linux&logoColor=white" alt="Linux Infrastructure"/>
+    <img src="https://img.shields.io/badge/AI-Systems-D97706?style=flat-square" alt="AI Systems"/>
+    <img src="https://img.shields.io/badge/Automation-Ansible-D97706?style=flat-square&logo=ansible&logoColor=white" alt="Ansible Automation"/>
   </p>
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CodexDaemon-Mutating-purple?style=for-the-badge&labelColor=111" />
-  <img src="https://img.shields.io/badge/Memory_Leak-Detected-red?style=for-the-badge&labelColor=111" />
-  <img src="https://img.shields.io/badge/ARG_Mode-ENGAGED-orange?style=for-the-badge&labelColor=111" />
+## Engineering Profile
+
+I work at the intersection of **enterprise Linux infrastructure, operational automation, and governed AI systems**.
+
+My foundation is hands-on production engineering: Linux servers, networking, databases, Java application environments, incident response, system migrations, security, and Ansible automation.
+
+I apply that operating experience to AI systems designed to produce clearer decisions—not merely more dashboards, alerts, or unreviewed machine output.
+
+---
+
+## Swarm Axis
+
+**Swarm Axis builds governed AI systems for consequential environments.**
+
+The company develops intelligence systems across four domains:
+
+* **Operational Intelligence**
+* **Market Intelligence**
+* **Clinical Research**
+* **Content Intelligence**
+
+### Current Commercial Focus: Exposure
+
+**Exposure** is an AI-assisted infrastructure intelligence system that helps leaders and engineering teams identify hidden operational risk, dependencies, and priorities before they become failures.
+
+It combines infrastructure and Linux expertise with:
+
+* AI-assisted analysis
+* Human review
+* Auditable findings
+* Executive-level clarity
+* Actionable operational priorities
+
+The objective is not autonomous decision-making. The objective is better-informed human decisions.
+
+---
+
+## Selected Engineering Work
+
+<table>
+  <tr>
+    <th align="left">System</th>
+    <th align="left">Focus</th>
+    <th align="left">Status</th>
+  </tr>
+
+  <tr>
+    <td><strong>Exposure</strong></td>
+    <td>AI-assisted infrastructure intelligence and operational risk synthesis</td>
+    <td><img src="https://img.shields.io/badge/Active-D97706?style=flat-square" alt="Active"/></td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/roninazure/project-darc">
+        <strong>Project D.A.R.C.</strong>
+      </a>
+    </td>
+    <td>AI risk, data-exposure, drift, and forensic evidence research</td>
+    <td><img src="https://img.shields.io/badge/Research-555555?style=flat-square" alt="Research"/></td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/roninazure/CodexDaemon">
+        <strong>CodexDaemon</strong>
+      </a>
+    </td>
+    <td>Automated repository diagnostics and experimental code-analysis workflows</td>
+    <td><img src="https://img.shields.io/badge/Laboratory-555555?style=flat-square" alt="Laboratory"/></td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/roninazure/mad-scientist">
+        <strong>Mad Scientist</strong>
+      </a>
+    </td>
+    <td>Automated GitHub publishing, telemetry, and engineering experiments</td>
+    <td><img src="https://img.shields.io/badge/Public_Lab-555555?style=flat-square" alt="Public Lab"/></td>
+  </tr>
+</table>
+
+---
+
+## Technical Foundation
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-Debian_%7C_RHEL-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Automation-Ansible-111111?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Scripting-Python_%7C_Bash-111111?style=flat-square&logo=python&logoColor=white" alt="Python and Bash"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-LLM_Systems_%7C_RAG-111111?style=flat-square" alt="LLM and RAG Systems"/>
+  <img src="https://img.shields.io/badge/API-FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Data-MySQL_%7C_MariaDB-111111?style=flat-square&logo=mysql&logoColor=white" alt="MySQL and MariaDB"/>
+  <img src="https://img.shields.io/badge/Operations-Networking_%7C_Security-111111?style=flat-square" alt="Networking and Security"/>
+  <img src="https://img.shields.io/badge/Platforms-Java_%7C_Webswing-111111?style=flat-square&logo=openjdk&logoColor=white" alt="Java and Webswing"/>
 </p>
 
 ---
 
-<h3>🧠 Current Experiments</h3>
-<table>
-  <tr><th>Project</th><th>Description</th><th>Status</th></tr>
-  <tr><td><a href="https://github.com/roninazure/project-darc">🚁 Project D.A.R.C.</a></td><td>AI Recon for data leakage into LLMs</td><td><img src="https://img.shields.io/badge/status-active-brightgreen"/></td></tr>
-  <tr><td><a href="https://github.com/roninazure/CodexDaemon">☓ CodexDaemon</a></td><td>Autonomous mutation engine</td><td><img src="https://img.shields.io/badge/status-evolving-yellow"/></td></tr>
-  <tr><td><a href="https://github.com/roninazure/mad-scientist">💉 Mad Scientist</a></td><td>Live GitHub README weaponization</td><td><img src="https://img.shields.io/badge/status-live-blue"/></td></tr>
-</table>
+## Engineering Principles
+
+* **Production credibility over technology theater**
+* **Human judgment over blind autonomy**
+* **Auditability over black-box output**
+* **Operational context over isolated alerts**
+* **Repeatable automation over undocumented heroics**
+* **Clear decisions over unnecessary complexity**
 
 ---
 
-<h3>🧬 Mutation Grid: Live Tech Arsenal</h3>
-<table>
-  <tr><td><code>🐧 Linux</code></td><td><code>🧠 GPT-4o</code></td><td><code>🔐 Secure RAG</code></td><td><code>🧵 FastAPI</code></td></tr>
-  <tr><td><code>⚙️ Python</code></td><td><code>🛰️ Bedrock Titan</code></td><td><code>🧪 Pinecone</code></td><td><code>🎯 Codex Protocols</code></td></tr>
-  <tr><td><code>🔁 GitHub Actions</code></td><td><code>🌌 LangChain</code></td><td><code>⚡ React + Tailwind</code></td><td><code>🛡️ VaultOps</code></td></tr>
-</table>
-<p><em>⚠️ This is not static. These mutate. Watch for signals.</em></p>
+## Current Direction
+
+I am focused on building systems that connect infrastructure evidence, operational context, and AI-assisted analysis into defensible decisions.
+
+This includes:
+
+* Linux infrastructure intelligence
+* Ansible-driven operational automation
+* AI-assisted risk analysis
+* Governed and human-reviewed AI workflows
+* Production-grade systems that can be explained, audited, and operated
 
 ---
 
-<h3>🔮 Codex Feed</h3>
-<pre><code>🕵️ CodexDaemon flagged: AI_Memory_Leak[api_tokens.txt] @ 01:22Z
-⚡ Mutation Risk: HIGH — self-replicating payloads detected
-🔎 Traced: SecureRAG/engine_core.py → hallucination_origin_map[32]</code></pre>
+<div align="center">
 
----
+### Infrastructure experience. AI systems thinking. Operator-grade execution.
 
-<h3>🧠 ScottGPT Says...</h3>
-<blockquote>"What if your GitHub could mutate itself? What if your README leaked clues? What if your profile was an ARG?"</blockquote>
-<h4>🪨 Now it is.</h4>
+<p>
+  <a href="https://linkedin.com/in/roninazure">
+    Connect on LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/roninazure?tab=repositories">
+    Explore the engineering portfolio
+  </a>
+</p>
 
-<div align="center" style="border:1px solid #333; padding:10px; border-radius:8px; background:#111; width:90%; font-family:monospace;">
-  <p style="margin:0; font-size:14px;">
-    🔧 <strong>Scott Steele</strong><br/>
-    Mad Scientist of AI Infrastructure<br/>
-    📍 Remote | CodexDaemon‑Synced<br/>
-    📧 roninazure [@] github
-  </p>
+<sub>Scott Steele · Remote · Linux Infrastructure · Automation · AI Engineering</sub>
+
 </div>
-
----
-
-<h3>🩺 CodexDaemon Neural Pulse</h3>
-<p><code>Last Scan:</code> <strong>2025-11-11T01:22:24Z</strong></p>
-<p><code>README Sync:</code> <strong>P25-12-22T01:31:32Z<!-- AUTO_TIMESTAMP_END --></strong></p>
-<p><code>Mutation Logs:</code> <a href="https://github.com/roninazure/CodexDaemon/tree/main/.codex/logs">.codex/logs</a></p>
-<p><code>Neural Sync:</code> <a href="https://github.com/roninazure/CodexDaemon">CodexDaemon</a></p>
-<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/codex-beat.gif" width="200"/>
-
----
-
-<h3>🧩 Daily Codex Protocol Clue</h3>
-<!-- START: ARG_CLUE -->
-<p><code>🜏 Fragment:</code> <em>"In the logs beneath the silence, something mutates when no one's watching."</em></p>
-<!-- END: ARG_CLUE -->
-<img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/arg-glitch.gif" width="300"/>
-
----
-
-<h3>📡 Mutation Surveillance</h3>
-<p><img src="https://raw.githubusercontent.com/roninazure/mad-scientist/main/public/heatmap.gif" width="300" alt="Mutation heatmap"/></p>
-<p><em>📡 Live telemetry feeds from your AI cores. This is not cosmetic. This is surveillance.</em></p>
-
----
-
-<sub><em>✨ README vMut.2025.12.21 — Generated by ScottGPT</em></sub>
