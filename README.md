@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/roninazure">
+    <a href="https://linkedin.com/in/thesteele">
       <img src="https://img.shields.io/badge/LinkedIn-Scott_Steele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/roninazure?tab=repositories">
